@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SSAFY\\Desktop\\hyunki\\Algoritm\\BOJ_step\\09_divisor_and_multiples_and_decimals\\9506_sum_devisors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00DD81F5-8775-4447-A779-DA7980DBEDC0}|9506_sum_devisors.vcxproj|C:\\Users\\SSAFY\\Desktop\\hyunki\\Algoritm\\BOJ_step\\09_divisor_and_multiples_and_decimals\\9506_sum_devisors\\9506_sum_devisors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00DD81F5-8775-4447-A779-DA7980DBEDC0}|9506_sum_devisors.vcxproj|solutionrelative:9506_sum_devisors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "9506_sum_devisors.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\Desktop\\hyunki\\Algoritm\\BOJ_step\\09_divisor_and_multiples_and_decimals\\9506_sum_devisors\\9506_sum_devisors.cpp",
+              "RelativeDocumentMoniker": "9506_sum_devisors.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\Desktop\\hyunki\\Algoritm\\BOJ_step\\09_divisor_and_multiples_and_decimals\\9506_sum_devisors\\9506_sum_devisors.cpp",
+              "RelativeToolTip": "9506_sum_devisors.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-28T06:36:34.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
